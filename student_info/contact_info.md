@@ -1,4 +1,4 @@
 # Contact Info
 
 - Carlo Santos
-  - Email: antcs07@gmail.com
+  - Email: snapitcarlo@gmail.com
