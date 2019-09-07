@@ -12,7 +12,8 @@ simply that. Version control systems (VCS's) track and manage the version/state 
 So we can rewind in the history of our code and fastforward to our most recent contribution.
 
 No better way to learn than to get started. Clone this repo and follow along. 
---------------------------------------------------------------------------------------------
+
+***
 
 
 
