@@ -17,3 +17,4 @@ No better way to learn than to get started. Clone this repo and follow along.
 
 git ammend
 git log
+git status
