@@ -22,9 +22,9 @@ No better way to learn than to get started. Clone this repo and follow along.
 3. 
 
 ***
-git ammend
-git log
-git status
+git ammend 
+git log 
+git status 
 
 ## Useful Resources
 
