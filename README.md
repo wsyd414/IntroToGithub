@@ -15,8 +15,17 @@ No better way to learn than to get started. Clone this repo and follow along.
 
 ***
 
+## Steps to Get Started
 
+1. Install Git
+2. Create a github account
+3. 
 
+***
 git ammend
 git log
 git status
+
+## Useful Resources
+
+- [Hubspot - An intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
