@@ -20,10 +20,10 @@ No better way to learn than to get started. Clone this repo and follow along.
 1. Install Git
 2. Create a github account
 3. Clone this Repo
-4. Add Contact info to student_info folder
-  1. add and commit to the master branch
-5. Create a branch titled "[name]-motivation"
-  1. add an entry in the motivation folder describing your motivation for taking this course.
+4. Add Contact info to student_info folder 
+    1. add and commit to the master branch
+5. Create a branch titled "[name]-motivation" 
+    1. add an entry in the motivation folder describing your motivation for taking this course.
 
 ***
 git ammend 
