@@ -1,6 +1,6 @@
 # Intro To Github
 
-Welcome to class. First things first, let's get in touch with our tools.
+Welcome to class. First things first, let's get to know our tools.
 Within the development industry when we build something, we usually build in 
 large teams. The really powerful programs require many people working on the
 project together as a team. A problem that arises when multiple people are working on
@@ -28,16 +28,32 @@ No better way to learn than to get started. Clone this repo and follow along.
     - add an entry in the motivation folder describing your motivation for taking this course.
 6. Create a pull request to merge your branch into master.
 
-***
-## Install Git
 
-1. [Install Git based on your operating system](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+### 1. Install Git
 
-***
-git ammend 
-git log 
-git status 
+[Install Git based on your operating system](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-## Useful Resources
+### 2. Create Github Account 
+
+[Create a GitHub account](https://github.com/) and get yourself an avatar.
+
+### 3. Clone this Repo
+
+    https://github.com/CarloSantos07/IntroToGithub
+
+### 4. Add Contact Info
+    - navigate to the sudent_info folder
+    - add your name and email to contact_info.md
+    - commit your changes and oush to master
+
+### 5. 
+
+### Useful Resources
 
 - [Hubspot - An intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [Git Website and readings](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+***
+git ammend  
+git log  
+git status 
