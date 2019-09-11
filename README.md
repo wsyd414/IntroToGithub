@@ -4,7 +4,7 @@ Welcome to class. First things first, let's get to know our tools.
 Within the development industry when we build something, we usually build in 
 large teams. The really powerful programs require many people working on the
 project together as a team. A problem that arises when multiple people are working on
-code in the same project, is that we may change code that affects another contributors code.
+code on the same project, is that we may change code that affects another contributors code.
 No good.
 
 In comes version control. Git is an example of a version control system. Version control is 
@@ -42,11 +42,15 @@ No better way to learn than to get started. Clone this repo and follow along.
     https://github.com/CarloSantos07/IntroToGithub
 
 ### 4. Add Contact Info
-    - navigate to the sudent_info folder
+    - navigate to the sudent_info directory
     - add your name and email to contact_info.md
     - commit your changes and oush to master
 
-### 5. 
+### 5. Create a branch titled "[student_name]-motivation" 
+    Find the documentation needed to 
+        - create a new branch with "your_name-motivation" as the title of the branch.
+        - create a directory called motivation.
+        - in that 
 
 ### Useful Resources
 
@@ -54,6 +58,15 @@ No better way to learn than to get started. Clone this repo and follow along.
 - [Git Website and readings](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 ***
-git ammend  
-git log  
-git status 
+#### Most Used Commands
+- git clone <repo.git>  
+- git add <file_name.rb>  
+- git add .  
+- git commit -m <"message">  
+- git push
+- git status
+- git branch
+- git fetch
+- git checkout  
+- git commit --ammend  
+- git log  
