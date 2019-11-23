@@ -25,7 +25,10 @@ No better way to learn than to get started. Clone this repo and follow along.
 4. Add Contact info to student_info folder 
     - add and commit to the master branch
 5. Create a branch titled "[name_s]-motivation" 
+    - copy and paste your contact info
     - add an entry in the motivation folder describing your motivation for taking this course.
+    - give your learning style.
+    - give one interesting fact about yourself
 6. Create a pull request to merge your branch into master.
 
 
@@ -44,14 +47,18 @@ No better way to learn than to get started. Clone this repo and follow along.
 ### 4. Add Contact Info
     - navigate to the sudent_info directory
     - add your name and email to contact_info.md
-    - commit your changes and oush to master
+    - commit your changes and push to master
 
-### 5. Create a branch titled "[student_name]-motivation" 
+### 5. Create a branch titled "[student_name_s]-motivation" 
     Find the documentation needed to 
         - create a new branch with "your_name-motivation" as the title of the branch.
         - create a directory called motivation.
-        - in that 
-
+        - in that directory copy and paste your contact info
+        - give your motivation for taking this course
+        - describe your learning style
+        - commit your changes and push to master
+        
+        
 ### Useful Resources
 
 - [Hubspot - An intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
