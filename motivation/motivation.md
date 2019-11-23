@@ -1,6 +1,6 @@
 Name: Carlo  
 Motivation:   
-  My motivation for creating this class is to learn and master ruby and ruby on rails myself. The goal is always self improvement. If I can teach a student. I can teach myself. What do I want to learn first. I want to learn to make a deployable app.
+  My motivation for creating this class is to learn and master ruby and ruby on rails myself. The goal is always self improvement. If I can teach a someone else I can teach myself. What do I want to learn first. I want to learn to make a deployable app.
   A useful web app. 
 
   My idea for an app currently is a financer.
