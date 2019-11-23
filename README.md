@@ -24,7 +24,7 @@ No better way to learn than to get started. Clone this repo and follow along.
 3. Clone this Repo
 4. Add Contact info to student_info folder 
     - add and commit to the master branch
-5. Create a branch titled "[name]-motivation" 
+5. Create a branch titled "[name_s]-motivation" 
     - add an entry in the motivation folder describing your motivation for taking this course.
 6. Create a pull request to merge your branch into master.
 
