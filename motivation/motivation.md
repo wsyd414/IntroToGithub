@@ -1,5 +1,6 @@
 Name: Carlo  
 Motivation:
+
   Let's test our first commit.   
   My motivation for creating this class is to learn and master ruby and ruby on rails myself. The goal is always self improvement. If I can teach a someone else I can teach myself. What do I want to learn first. I want to learn to make a deployable app.
   A useful web app. 
