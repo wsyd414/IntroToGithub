@@ -6,7 +6,10 @@ Motivation:
   
   I want us to bring out the best in each other and highlight each others qualities. 
   
-  My goal proffessional goal is to create flexibility for myself in my work so I can start a family and find work life balance. My goal is   to motivate you and have you feel like this career shift is possible for you. Through hard work and definitive purpose it is possible. 
+  My professional goals are to create flexibility for myself in my work so I can start a family and find work life balance. I also hope to   be a team lead soon for our client and help others carry out their goals and open up a door for possibilities to others.
+  
+  My goal here is to motivate you and have you feel like this career shift is possible for you. Through hard work and definitive purpose it 
+  is possible. 
   
   
   
