@@ -56,7 +56,7 @@ No better way to learn than to get started. Clone this repo and follow along.
         - in that directory copy and paste your contact info
         - give your motivation for taking this course
         - describe your learning style
-        - commit your changes and push to master
+        - commit your changes and push to your remote branch
         
         
 ### Useful Resources
