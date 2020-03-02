@@ -2,21 +2,13 @@ Name: Carlo
 Motivation:
 
   Let's test our first commit.   
-  My motivation for creating this class is to learn and master ruby and ruby on rails myself. The goal is always self improvement. If I can teach a someone else I can teach myself. What do I want to learn first. I want to learn to make a deployable app.
-  A useful web app. 
-
-  My idea for an app currently is a financer.
-
-  You tell the financer how much you make every two weeks...
-
-  You will tell the financer how much you get paid and how often (bi-weekly, weekly, monthly, by-contract)...
-
-  You tell the financer how much you want to put into savings, home, wedding, frivaoous activities, etc. (10%, 20%, %50, etc.)
-  or you could do flat dollar value (50.00, 100.00, 150.00,etc.)
-
-  The financer will tell you how much will be in your account in months or years to come.
-
-  How to get started. Let's build a simple finacner app.
-
-  I created a small prototype. Need to implement with oop.
-  Classes etc.
+  My motivation for creating this class is to learn and master ruby and ruby on rails myself. The goal is always self improvement. If I can   teach a someone else I can teach myself.
+  
+  I want us to bring out the best in each other and highlight each others qualities. 
+  
+  My goal proffessional goal is to create flexibility for myself in my work so I can start a family and find work life balance. My goal is   to motivate you and have you feel like this career shift is possible for you. Through hard work and definitive purpose it is possible. 
+  
+  
+  
+  
+ 
