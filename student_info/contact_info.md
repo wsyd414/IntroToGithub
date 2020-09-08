@@ -11,3 +11,7 @@
 - Lindsey Lopez
   - Email: snapitlindsey@gmail.com
   - github: carlosantos11
+
+- Sydney White
+  - Email: wsydney414@gmail.com  
+  - github: wsyd414
