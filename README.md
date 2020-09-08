@@ -40,7 +40,7 @@ No better way to learn than to get started. Clone this repo and follow along.
 
 [Create a GitHub account](https://github.com/) and get yourself an avatar.
 
-### 3. Clone this Repo
+### 3. Fork and Clone this Repo
 
     https://github.com/CarloSantos07/IntroToGithub
 
