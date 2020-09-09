@@ -10,8 +10,12 @@ Motivation:
   
   My goal here is to motivate you and have you feel like this career shift is possible for you. Through hard work and definitive purpose it 
   is possible. 
+
+Name: Sydney
+Motivation:
+  My motivation for taking this course is to fully complete a website and learn with others in the same field as me.
   
-  
+  My goals after this class is to have a better sense of working with code and programming. 
   
   
  
